@@ -1,0 +1,10 @@
+.btn {
+    display: flex;
+    justify-content: space-between;
+    gap: 2;
+    border-radius: 3.40282e38px;
+    background-color: #5044e5;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+}
